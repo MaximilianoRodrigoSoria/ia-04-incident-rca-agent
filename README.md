@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="100%" src="docs/img/banner.svg" alt="ia-04-incident-rca-agent">
+<a href="https://www.linkedin.com/in/soriamaximilianorodrigo/" target="_blank" rel="noopener noreferrer">
+<img width="100%" height="100%" src="docs/img/banner.gif" alt="ia-04-incident-rca-agent"></a>
 </p>
 
 <p align="center">
